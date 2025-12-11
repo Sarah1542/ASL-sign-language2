@@ -200,9 +200,3 @@ ASL Alphabet dataset (Kaggle / public datasets) — used for letters training.
 
 Your project-specific words dataset (frames extracted from videos) — used for words training.
 
-
-
-
-
-Thanks to the entire team for their components and integration work:
-Mohmmed, Zeyad, Sarah, Youssif, Omar, Ahd, Hana, Shahd — great teamwork!
